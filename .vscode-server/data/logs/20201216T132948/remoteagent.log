@@ -1,0 +1,22 @@
+[2020-12-16 13:29:49.233] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 13:29:49.233] [remoteagent] [info] Extension host agent started.
+[2020-12-16 13:29:49.235] [remoteagent] [info] [::ffff:127.0.0.1][d39ab9a8][ManagementConnection] New connection established.
+[2020-12-16 13:29:49.237] [remoteagent] [info] [::ffff:127.0.0.1][541f5a93][ExtensionHostConnection] New connection established.
+[2020-12-16 13:29:49.272] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 13:29:49.507] [remoteagent] [info] [::ffff:127.0.0.1][541f5a93][ExtensionHostConnection] <11118> Launched Extension Host Process.
+[2020-12-16 13:30:20.732] [remoteagent] [info] [::ffff:127.0.0.1][d39ab9a8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 13:30:21.750] [remoteagent] [info] [::ffff:127.0.0.1][541f5a93][ExtensionHostConnection] <11118> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 13:30:22.087] [remoteagent] [info] [::ffff:127.0.0.1][9809ee53][ManagementConnection] New connection established.
+[2020-12-16 13:30:22.088] [remoteagent] [info] [::ffff:127.0.0.1][6c2170a3][ExtensionHostConnection] New connection established.
+[2020-12-16 13:30:22.102] [remoteagent] [info] [::ffff:127.0.0.1][6c2170a3][ExtensionHostConnection] <11178> Launched Extension Host Process.
+[2020-12-16 13:30:22.115] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 13:30:22.140] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jerome/blog/.vscode'

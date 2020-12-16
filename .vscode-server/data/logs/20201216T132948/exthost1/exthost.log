@@ -1,0 +1,16 @@
+[2020-12-16 13:29:50.433] [exthost] [info] extension host started
+[2020-12-16 13:29:50.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-16 13:29:50.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/debug-auto-launch/dist/extension
+[2020-12-16 13:29:50.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-16 13:29:50.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-16 13:29:50.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-16 13:29:50.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/git/dist/main
+[2020-12-16 13:29:50.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-16 13:29:50.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-16 13:29:50.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-16 13:29:50.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/search-result/dist/extension.js
+[2020-12-16 13:29:50.839] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-16 13:29:50.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-16 13:29:51.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-16 13:29:51.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jerome/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/extensions/github/dist/extension.js
+[2020-12-16 13:29:51.160] [exthost] [info] eager extensions activated
